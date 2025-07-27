@@ -2,48 +2,48 @@ const poems = [
   {
     id: 1,
     title: 'A Line of Women',
-    poem: 'src/components/poems/ALineOfWomen.png',
+    poem: 'src/assets/poems/ALineOfWomen.png',
   },
   {
     id: 2,
     title: 'How To Turn A Haunted Hourse Into A Home',
-    poem: 'src/components/poems/HowToTurnAHauntedHouse.jpg',
+    poem: 'src/assets/poems/HowToTurnAHauntedHouse.jpg',
   },
   {
     id: 3,
     title: 'I Will Not Tell You',
     link: 'https://www.kristenoyer.com/poesie-collaboration',
-    poem: 'src/components/poems/IWillNotTellYou.png',
+    poem: 'src/assets/poems/IWillNotTellYou.png',
   },
   {
     id: 4,
     title: 'Like The Moon',
-    poem: 'src/components/poems/LikeTheMoon.png',
+    poem: 'src/assets/poems/LikeTheMoon.png',
   },
   {
     id: 5,
     title: 'Same To Me',
-    poem: 'src/components/poems/SameToMe.png',
+    poem: 'src/assets/poems/SameToMe.png',
   },
   {
     id: 6,
     title: 'Select All That Apply',
-    poem: 'src/components/poems/SelectAllThatApply.png',
+    poem: 'src/assets/poems/SelectAllThatApply.png',
   },
   {
     id: 7,
     title: 'Something About Pride',
-    poem: 'src/components/poems/SomethingAboutPride.jpg',
+    poem: 'src/assets/poems/SomethingAboutPride.jpg',
   },
   {
     id: 9,
     title: 'There Is Comfort There (After M. Travis Lane)',
-    poem: 'src/components/poems/ThereIsComfortThere.png',
+    poem: 'src/assets/poems/ThereIsComfortThere.png',
   },
   {
     id: 8,
     title: 'You Will Live',
-    poem: 'src/components/poems/YouWillLive.jpg',
+    poem: 'src/assets/poems/YouWillLive.jpg',
   },
 ]
 
