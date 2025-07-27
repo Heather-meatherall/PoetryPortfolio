@@ -2,10 +2,6 @@
 
 ![Header from the website](HeaderPhoto.png)
 
-## Project Setup
+A website showcasing Heather Meatherall's various poetic accomplishments. Created using Vue Framework
 
-To run Heather Meatherall's Poetry Portfolio
-
-    download the code
-    npm install
-    npm run start
+[Click here to view](https://heather-meatherall.github.io/PoetryPortfolio/)
