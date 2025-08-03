@@ -10,7 +10,7 @@ To run Heather Meatherall's Poetry Portfolio
 1.  download the code
 2.  in your terminal run the following commands:
     1. npm install
-    2. npm run start
+    2. npm run dev
 
 
 
