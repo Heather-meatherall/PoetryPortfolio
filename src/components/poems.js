@@ -2,7 +2,7 @@ const poems = [
   {
     id: 1,
     title: 'A Line of Women',
-    poem: 'src/assets/poems/ALineOfWomen.png',
+    poem: 'PoetryPortfolio/assets/ALineOfWomen.png',
   },
   {
     id: 2,
