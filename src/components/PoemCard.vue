@@ -18,6 +18,7 @@ defineProps({
 img {
   width: 300px;
   height: 300px;
+  color: #001D2D;
 }
 span {
   font-weight: bold;

@@ -2,48 +2,48 @@ const poems = [
   {
     id: 1,
     title: 'A Line of Women',
-    poem: 'src/assets/poems/ALineOfWomen.png',
+    poem: 'src/assets/ALineOfWomen.png',
   },
   {
     id: 2,
     title: 'How To Turn A Haunted Hourse Into A Home',
-    poem: 'src/assets/poems/HowToTurnAHauntedHouse.jpg',
+    poem: 'src/assets/HowToTurnAHauntedHouse.jpg',
   },
   {
     id: 3,
     title: 'I Will Not Tell You',
     link: 'https://www.kristenoyer.com/poesie-collaboration',
-    poem: 'src/assets/poems/IWillNotTellYou.png',
+    poem: 'src/assets/IWillNotTellYou.png',
   },
   {
     id: 4,
     title: 'Like The Moon',
-    poem: 'src/assets/poems/LikeTheMoon.png',
+    poem: 'src/assets/LikeTheMoon.png',
   },
   {
     id: 5,
     title: 'Same To Me',
-    poem: 'src/assets/poems/SameToMe.png',
+    poem: 'src/assets/SameToMe.png',
   },
   {
     id: 6,
     title: 'Select All That Apply',
-    poem: 'src/assets/poems/SelectAllThatApply.png',
+    poem: 'src/assets/SelectAllThatApply.png',
   },
   {
     id: 7,
     title: 'Something About Pride',
-    poem: 'src/assets/poems/SomethingAboutPride.jpg',
+    poem: 'src/assets/SomethingAboutPride.jpg',
   },
   {
     id: 9,
     title: 'There Is Comfort There (After M. Travis Lane)',
-    poem: 'src/assets/poems/ThereIsComfortThere.png',
+    poem: 'src/assets/ThereIsComfortThere.png',
   },
   {
     id: 8,
     title: 'You Will Live',
-    poem: 'src/assets/poems/YouWillLive.jpg',
+    poem: 'src/assets/YouWillLive.jpg',
   },
 ]
 

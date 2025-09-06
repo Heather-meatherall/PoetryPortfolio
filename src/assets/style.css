@@ -131,6 +131,7 @@ select {
   border: solid 1px #001d2d;
   border-radius: 12px;
   font-family: 'Roboto', sans-serif;
+  font-size: 20px;
 }
 
 button {

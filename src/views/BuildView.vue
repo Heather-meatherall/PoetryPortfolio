@@ -36,9 +36,6 @@ function getTitle() {
   } else {
     title.value = 'For the King'
   }
-  console.log(soliderResults)
-  console.log(poetResults)
-  console.log(kingResults)
 }
 </script>
 
@@ -114,7 +111,7 @@ function getTitle() {
 
       <div>
         <!-- <button onclick="savePoem()" class="button">Save</button> -->
-        <button @click="getTitle()">Get Title</button>
+        <button @click="getTitle()" id="titleButton">Get Title</button>
       </div>
     </section>
     <br />
