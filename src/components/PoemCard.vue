@@ -9,7 +9,7 @@ defineProps({
 
 <template>
   <div class="poem-card">
-    <h2>{{ cardProp.title }}</h2>
+    <h2>{{ cardProp.title }}</h2> 
     <a v-bind:href="cardProp.link"><img :src="cardProp.poem" :alt="cardProp.title" /></a>
   </div>
 </template>
