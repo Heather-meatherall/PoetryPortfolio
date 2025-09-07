@@ -3,6 +3,7 @@ const poems = [
     id: 1,
     title: 'A Line of Women',
     poem: '../ALineOfWomen.png',
+    alt : 'behind me / there is a line of women / stretching all the way back to the beginning / I do not know all their names / but they know mine / beside me / there is a line of women / stretching all the way to the horizon / I do not know all their names / but I cheer for them anyway / before me / there is a line of women / stretching farther then I can possible see / I do not know all their names / but I promise / that when they look back / they will be proud of what they see'
   },
   {
     id: 2,
