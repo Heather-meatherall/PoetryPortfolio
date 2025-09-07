@@ -12,50 +12,50 @@
   <div class="poems">
     <div class="poem-card">
       <h2>A Line Of Women</h2> 
-    <a><img src="../assets/poems/ALineOfWomen.png"/></a>
+    <a><img src="../assets/ALineOfWomen.png"/></a>
     </div>
 
     <div class="poem-card">
       <h2>How To Turn A Haunted House Into A Home</h2> 
-    <a><img src="../assets/poems/HowToTurnAHauntedHouse.jpg"/></a>
+    <a><img src="../assets/HowToTurnAHauntedHouse.jpg"/></a>
     </div>
 
     <div class="poem-card">
       <h2>I Will Not Tell You</h2> 
-    <a href="https://www.kristenoyer.com/poesie-collaboration"><img src="../assets/poems/IWIllNotTellYou.png"></a>
+    <a href="https://www.kristenoyer.com/poesie-collaboration"><img src="../assets/IWIllNotTellYou.png"></a>
     </div>
 
     <div class="poem-card">
       <h2>Like The Moon</h2> 
-    <a><img src="../assets/poems/LikeTheMoon.png"/></a>
+    <a><img src="../assets/LikeTheMoon.png"/></a>
     </div>
 
 
     <div class="poem-card">
       <h2>Same To Me</h2> 
-    <a><img src="../assets/poems/SameToMe.png"/></a>
+    <a><img src="../assets/SameToMe.png"/></a>
     </div>
 
 
     <div class="poem-card">
       <h2>Select All That Apply</h2> 
-    <a><img src="../assets/poems/SelectAllThatApply.png"/></a>
+    <a><img src="../assets/SelectAllThatApply.png"/></a>
     </div>
 
 
     <div class="poem-card">
       <h2>Something About Pride</h2> 
-    <a><img src="../assets/poems/SomethingAboutPride.jpg"/></a>
+    <a><img src="../assets/SomethingAboutPride.jpg"/></a>
     </div>
 
     <div class="poem-card">
       <h2>There is Comfort There (After M. Travis Lane)</h2> 
-    <a><img src="../assets/poems/ThereIsComfortThere.png"/></a>
+    <a><img src="../assets/ThereIsComfortThere.png"/></a>
     </div>
 
     <div class="poem-card">
       <h2>You Will Live</h2> 
-    <a><img src="../assets/poems/YouWillLive.jpg"/></a>
+    <a><img src="../assets/YouWillLive.jpg"/></a>
     </div>
 
 
