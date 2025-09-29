@@ -9,7 +9,7 @@
 
 <template>
   <h2>Showcase</h2>
-  <div class="poems">
+  <b-container>
     <div class="poem-card">
       <h2>A Line Of Women</h2> 
     <a><img src="../assets/ALineOfWomen.png"/></a>
@@ -58,11 +58,8 @@
     <a><img src="../assets/YouWillLive.jpg"/></a>
     </div>
 
-
-
-
     <!-- <GraphicCard v-for="card in PoemCards" :key="card.id" :cardProp="card" /> -->
-  </div>
+  </b-container>
 </template>
 
 <style scoped>
@@ -71,6 +68,8 @@
   grid-template-columns: auto auto auto;
   justify-content: space-evenly;
   text-align: center;
+  margin: auto;
+  width: 100%;
 }
 
 img {
@@ -80,18 +79,17 @@ img {
 }
 span {
   font-weight: bold;
-  font-size: 30px;
 }
 h2 {
-  font-size: 20px;
   color: #c2728a;
 }
 .poem-card {
-  padding: 20px;
+  padding: 2%;
   cursor: pointer;
   border: 1px solid #001d2d;
   margin-bottom: 18px;
   background-color: whitesmoke;
+  text-align: center;
 }
 .poem-card:hover {
   transform: scale(1.01);

@@ -52,13 +52,10 @@ nav a.router-link-exact-active {
   font-style: oblique;
 }
 
-nav h1 {
-  color: white;
-  font-size: xx-large;
-}
 
 .foot {
   font-style: oblique;
+  font-size: xx-large;
 }
 .foot:hover {
   color: #c2728a;
@@ -114,15 +111,14 @@ section {
 .about {
   width: 50%;
   margin: auto;
-  padding-bottom: 2%;
-  display: grid;
-  grid-template-columns: auto auto;
+  padding-bottom: 5%;
   justify-items: center;
   align-items: center;
-  padding-top: 20px;
+  padding-top: 2%;
 }
 .about img {
   height: 250px;
+  float: left
 }
 
 select {

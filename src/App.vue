@@ -7,11 +7,10 @@ import './assets/style.css'
   <div id="layout">
     <header>
       <div class="wrapper">
-        <nav>
-          <!-- <img src="./assets/profilepoet.jpg" alt="Heather Meatherall" class="profile"> -->
-
+        
           <div alt="Heather Meatherall" class="profile flip"></div>
-          <h1>Heather Meatherall</h1>
+          <h1 style="color:white">Heather Meatherall</h1>
+          <nav id="navbar">
           <RouterLink to="/">Home</RouterLink>
           <RouterLink to="/showcase">Work Showcase</RouterLink>
           <RouterLink to="/published">Published Work</RouterLink>
