@@ -14,7 +14,7 @@
       ,where a painting was made based on her poem <a href=https://www.kristenoyer.com/poesie-poems>I Will Not Tell You</a>. From there she
       discovered the wonderful world of indie presses. <a href="https://www.rosalindsciencepress.com/read">Magazines</a> that mix art and science,
       <a href="https://www.icaruswritingcollective.com">volumes</a> stuffed full of works inspired by myths and legends, and <a href="https://www.theweesparrowpoetrypress.com/">anthologies</a> that give back in more ways
-      then one, there's no limit to what shell write or where she'll submit to.She's had her work featured
+      then one, there's no limit to what she'll write or where she'll submit to.She's had her work featured
       in the <a href="https://www.amazon.com/s?i=stripbooks&rh=p_27%3ADreams%2B%2BIn%2BHiding&s=relevancerank&text=Dreams++In+Hiding">Dreams In Hiding Anthologies</a>, 
       Indie Earth Publishing's <a href="https://www.amazon.com/s?i=stripbooks&rh=p_27%3AIndie%2BEarth%2BPublishing&s=relevancerank&text=Indie+Earth+Publishing">The Spell Jar</a>, and various other places.
       For the full list, visit <RouterLink to="/published">Published Work</RouterLink>
